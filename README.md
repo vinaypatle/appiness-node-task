@@ -6,7 +6,7 @@ Simple User Registration app
 
 To run this app, you need to install Node(v10.0 or above) and MongoDB (or MongoDB connection string). After installing Node, open your terminal and run following commands:
 ```
-git clone https://github.com/vinaypatle/appiness-node-task
+git clone https://github.com/vinaypatle/appiness-node-task.git
 
 cd appiness-node-task
 
